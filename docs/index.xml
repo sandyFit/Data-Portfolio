@@ -29,13 +29,28 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>https://sandyfit.github.io/Data-Portfolio/about/</link>
       <pubDate>Sat, 08 Jul 2023 19:09:52 -0500</pubDate>
       
       <guid>https://sandyfit.github.io/Data-Portfolio/about/</guid>
-      <description>About Me </description>
-      <content>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+      <description>Hello, I&amp;rsquo;m Sandra, a novice Python data analyst and coder. I have a deep passion for the advancements in Artificial Intelligence and its profound impact on our society&amp;rsquo;s future.
+This website serves as a documentation of my journey into the realms of Data Analytics and Machine Learning, where I will also showcase my personal projects.
+My aim is to continuously enhance my analytics skills by diving into hands-on experiences and applying cutting-edge techniques.</description>
+      <content>&lt;p&gt;Hello, I&amp;rsquo;m Sandra, a novice Python data analyst and coder. I have a deep passion for the advancements in Artificial Intelligence and its profound impact on our society&amp;rsquo;s future.&lt;/p&gt;
+&lt;p&gt;This website serves as a documentation of my journey into the realms of Data Analytics and Machine Learning, where I will also showcase my personal projects.&lt;/p&gt;
+&lt;p&gt;My aim is to continuously enhance my analytics skills by diving into hands-on experiences and applying cutting-edge techniques.&lt;/p&gt;
+&lt;p&gt;There is no PhD’s on my wall, but I firmly believe that the best way to learn is by doing, and I&amp;rsquo;m excited to tackle challenges, explore new methodologies, and make effective use of data to drive impactful decisions.&lt;/p&gt;
+&lt;p&gt;Beyond my personal growth, I am equally driven to inspire fellow beginners in analytics.
+I understand the challenges faced by newcomers and the importance of effectively communicating their own projects.&lt;/p&gt;
+&lt;p&gt;By sharing my experiences, providing guidance, and fostering a supportive community, I aim to empower others to confidently showcase their work and make a meaningful impact in the analytics world.&lt;/p&gt;
+&lt;h1 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h1&gt;
+&lt;p&gt;Coming from a background in Graphic Design, I have a keen eye for data visualization. Transforming complex datasets into easily understandable visual representations has become my hobby. I consider Python plotting libraries to be my closest allies in achieving this.&lt;/p&gt;
+&lt;p&gt;My technical journey began with a strong focus on software development, UI design, and backend engineering, which I pursued through intensive bootcamps.
+These experiences provided a solid foundation for my subsequent exploration of data analytics and machine learning, which I also delved into through a dedicated bootcamp.&lt;/p&gt;
+&lt;p&gt;Along the way, I gained a deep understanding of Python and SQL, and proficiency in HTML, CSS, JavaScript, and Java.&lt;/p&gt;
+&lt;p&gt;I am thrilled to leverage these skills to extract insights from data, create compelling narratives that resonate with diverse audiences and craft impactful presentations of those insights.&lt;/p&gt;
+&lt;p&gt;Feel free to explore my portfolio and join me on this exciting journey of discovery and growth in the realm of Data Analytics and Machine Learning.&lt;/p&gt;
 </content>
     </item>
     
