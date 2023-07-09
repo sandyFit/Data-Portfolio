@@ -2,29 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sandra Ramos</title>
-    <link>https://sandyfit.github.io/Data-Portfolio/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Sandra Ramos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Jul 2023 19:18:48 -0500</lastBuildDate><atom:link href="https://sandyfit.github.io/Data-Portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jul 2023 23:19:16 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EDA</title>
-      <link>https://sandyfit.github.io/Data-Portfolio/posts/second-post/</link>
-      <pubDate>Sat, 08 Jul 2023 19:18:48 -0500</pubDate>
+      <title>My 100-Day Data Analytics Challenge: Unveiling Each Step of the Journey</title>
+      <link>/posts/challenge-roadmap/</link>
+      <pubDate>Sat, 08 Jul 2023 23:19:16 -0500</pubDate>
       
-      <guid>https://sandyfit.github.io/Data-Portfolio/posts/second-post/</guid>
-      <description></description>
-      <content></content>
+      <guid>/posts/challenge-roadmap/</guid>
+      <description>Hello again, data enthusiasts! Today, I&amp;rsquo;m excited to reveal the roadmap for our 100-day data analytics challenge. We&amp;rsquo;ve set our goals, laid the foundation, and now it&amp;rsquo;s time to embark on this transformative learning journey together. In this post, we&amp;rsquo;ll dive into the specifics, unveiling the steps we&amp;rsquo;ll take each week to reach our ultimate destination. So, without further ado, let&amp;rsquo;s get started!
+Day 1-10: Data Analysis Fundamentals •	Introduction to data analytics and its importance •	Understanding different types of data and data formats •	Exploring data analysis tools and software (e.</description>
+      <content>&lt;p&gt;Hello again, data enthusiasts! Today, I&amp;rsquo;m excited to reveal the roadmap for our 100-day data analytics challenge. We&amp;rsquo;ve set our goals, laid the foundation, and now it&amp;rsquo;s time to embark on this transformative learning journey together. In this post, we&amp;rsquo;ll dive into the specifics, unveiling the steps we&amp;rsquo;ll take each week to reach our ultimate destination. So, without further ado, let&amp;rsquo;s get started!&lt;/p&gt;
+&lt;h3 id=&#34;day-1-10&#34;&gt;Day 1-10:&lt;/h3&gt;
+&lt;h2 id=&#34;data-analysis-fundamentals&#34;&gt;Data Analysis Fundamentals&lt;/h2&gt;
+&lt;p&gt;•	Introduction to data analytics and its importance &lt;br&gt;
+•	Understanding different types of data and data formats &lt;br&gt;
+•	Exploring data analysis tools and software (e.g., Excel, Python, R)&lt;/p&gt;
+&lt;h3 id=&#34;day-11-20&#34;&gt;Day 11-20:&lt;/h3&gt;
+&lt;h2 id=&#34;data-cleaning-and-preprocessing&#34;&gt;Data Cleaning and Preprocessing&lt;/h2&gt;
+&lt;p&gt;•	Techniques for data cleaning, handling missing values, and outliers &lt;br&gt;
+•	Data preprocessing steps such as data normalization and feature scaling &lt;br&gt;
+•	Exploring data manipulation libraries (e.g., Pandas)&lt;/p&gt;
+&lt;h3 id=&#34;day-21-30&#34;&gt;Day 21-30:&lt;/h3&gt;
+&lt;h2 id=&#34;exploratory-data-analysis-eda&#34;&gt;Exploratory Data Analysis (EDA)&lt;/h2&gt;
+&lt;p&gt;•	Techniques for visualizing and summarizing data &lt;br&gt;
+•	Identifying patterns, trends, and relationships in data &lt;br&gt;
+•	Using EDA libraries (e.g., Matplotlib, Seaborn)&lt;/p&gt;
+&lt;h3 id=&#34;day-31-40&#34;&gt;Day 31-40:&lt;/h3&gt;
+&lt;h2 id=&#34;statistics&#34;&gt;Statistics&lt;/h2&gt;
+&lt;p&gt;•	Statistical Analysis &lt;br&gt;
+•	Understanding basic statistical concepts and measures &lt;br&gt;
+•	Hypothesis testing and statistical inference &lt;br&gt;
+•	Applying statistical analysis techniques with Python&lt;/p&gt;
+&lt;h3 id=&#34;day-41-50&#34;&gt;Day 41-50:&lt;/h3&gt;
+&lt;h2 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h2&gt;
+&lt;p&gt;•	Design principles for effective data visualization &lt;br&gt;
+•	Creating impactful visualizations using advanced libraries (e.g., Plotly, Tableau) &lt;br&gt;
+•	Storytelling with data through interactive dashboards&lt;/p&gt;
+&lt;h3 id=&#34;day-51-60&#34;&gt;Day 51-60:&lt;/h3&gt;
+&lt;h2 id=&#34;introduction-to-machine-learning&#34;&gt;Introduction to Machine Learning&lt;/h2&gt;
+&lt;p&gt;•	Understanding the basics of supervised and unsupervised learning &lt;br&gt;
+•	Exploring popular machine learning algorithms (e.g., regression, classification, clustering) &lt;br&gt;
+•	Hands-on implementation of ML algorithms using scikit-learn or TensorFlow&lt;/p&gt;
+&lt;h3 id=&#34;day-61-70&#34;&gt;Day 61-70:&lt;/h3&gt;
+&lt;h2 id=&#34;data-wrangling-and-feature-engineering&#34;&gt;Data Wrangling and Feature Engineering&lt;/h2&gt;
+&lt;p&gt;•	Advanced data manipulation techniques &lt;br&gt;
+•	Feature selection and engineering to improve model performance &lt;br&gt;
+•	Working with messy or unstructured data&lt;/p&gt;
+&lt;h3 id=&#34;day-71-80&#34;&gt;Day 71-80:&lt;/h3&gt;
+&lt;h2 id=&#34;model-evaluation-and-validation&#34;&gt;Model Evaluation and Validation&lt;/h2&gt;
+&lt;p&gt;•	Techniques for evaluating and validating ML models &lt;br&gt;
+•	Cross-validation and performance metrics &lt;br&gt;
+•	Hyperparameter tuning and model optimization&lt;/p&gt;
+&lt;h3 id=&#34;day-81-90&#34;&gt;Day 81-90:&lt;/h3&gt;
+&lt;h2 id=&#34;advanced-topics-in-data-analytics&#34;&gt;Advanced Topics in Data Analytics&lt;/h2&gt;
+&lt;p&gt;•	Time series analysis and forecasting &lt;br&gt;
+•	Natural Language Processing (NLP) for text data analysis &lt;br&gt;
+•	Introduction to big data analytics and distributed computing frameworks (e.g., Apache Spark)&lt;/p&gt;
+&lt;h3 id=&#34;day-91-100&#34;&gt;Day 91-100:&lt;/h3&gt;
+&lt;h2 id=&#34;capstone-project-and-practical-applications&#34;&gt;Capstone Project and Practical Applications&lt;/h2&gt;
+&lt;p&gt;•	Apply your knowledge to a real-world project or case study &lt;br&gt;
+•	Showcase your data analytics skills through a meaningful project &lt;br&gt;
+•	Reflect on your progress and identify areas for further growth&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion:&lt;/h2&gt;
+&lt;p&gt;Congratulations on discovering the steps that will shape our 100-day data analytics challenge! Each week will bring us closer to our goals, equipping us with invaluable skills and knowledge. Remember, this journey is not just about completion—it&amp;rsquo;s about growth, exploration, and embracing the world of data analytics.&lt;/p&gt;
+&lt;p&gt;Stay tuned for the next post, where we&amp;rsquo;ll dive into the first week of our challenge—Data Analytics Fundamentals. Get ready to unravel the secrets of data analysis and take your first steps towards becoming a proficient data analyst!&lt;/p&gt;
+&lt;p&gt;Happy analyzing!&lt;/p&gt;
+</content>
     </item>
     
     <item>
-      <title>Data Cleaning</title>
-      <link>https://sandyfit.github.io/Data-Portfolio/posts/first-post/</link>
+      <title>My 100-Day Data Analytics Challenge: Setting Goals and Getting Started!</title>
+      <link>/posts/challenge_goals/</link>
+      <pubDate>Sat, 08 Jul 2023 22:52:58 -0500</pubDate>
+      
+      <guid>/posts/challenge_goals/</guid>
+      <description>Welcome back, fellow data enthusiasts! Today, I&amp;rsquo;m thrilled to share with you the details of my 100-day data analytics challenge. As promised, we&amp;rsquo;re embarking on a journey that will transform us from data analytics newbies to confident practitioners. So, without further ado, let&amp;rsquo;s dive right in and discover what this challenge has in store for us!
+Goal Setting: Before we begin our 100-day adventure, it&amp;rsquo;s essential to set clear goals. As with any learning endeavor, having a target in mind helps us stay focused and motivated.</description>
+      <content>&lt;p&gt;Welcome back, fellow data enthusiasts! Today, I&amp;rsquo;m thrilled to share with you the details of my 100-day data analytics challenge. As promised, we&amp;rsquo;re embarking on a journey that will transform us from data analytics newbies to confident practitioners. So, without further ado, let&amp;rsquo;s dive right in and discover what this challenge has in store for us!&lt;/p&gt;
+&lt;h2 id=&#34;goal-setting&#34;&gt;Goal Setting:&lt;/h2&gt;
+&lt;p&gt;Before we begin our 100-day adventure, it&amp;rsquo;s essential to set clear goals. As with any learning endeavor, having a target in mind helps us stay focused and motivated. So, take a moment to reflect on what you hope to achieve through this challenge.&lt;/p&gt;
+&lt;p&gt;Are you aiming to gain a foundational understanding of data analytics concepts? Do you want to become proficient in using popular tools like Excel and Python for data analysis? Are you interested in honing your data visualization skills to communicate insights effectively? Or perhaps you have specific career aspirations that require data analytics expertise? Whatever your goals may be, jot them down and keep them handy throughout this journey.&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started:&lt;/h2&gt;
+&lt;p&gt;Now that we have our goals set, it&amp;rsquo;s time to kickstart our learning adventure. The first step in any learning process is to build a solid foundation. We&amp;rsquo;ll begin by understanding the fundamentals of data analytics, ensuring that we have a strong grasp of the core concepts.&lt;/p&gt;
+&lt;p&gt;To make things approachable, we&amp;rsquo;ll break down complex topics into bite-sized pieces. We&amp;rsquo;ll explore key terms like data types, variables, and data preprocessing techniques. We&amp;rsquo;ll demystify statistical concepts like mean, median, and standard deviation, understanding how they play a vital role in data analysis. And don&amp;rsquo;t worry—I&amp;rsquo;ll be there to guide you every step of the way, making sure you feel comfortable with each concept before moving forward.&lt;/p&gt;
+&lt;h2 id=&#34;tools-of-the-trade&#34;&gt;Tools of the Trade:&lt;/h2&gt;
+&lt;p&gt;Data analytics is all about applying practical tools to extract meaningful insights from data. In this challenge, we&amp;rsquo;ll get hands-on experience with popular tools like Microsoft Excel and Python. These tools will be our trusty companions throughout our journey, helping us manipulate, analyze, and visualize data.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll start by mastering the basics of Excel, learning how to navigate spreadsheets, perform calculations, and create informative charts and graphs. As we progress, we&amp;rsquo;ll dive into more advanced Excel functionalities, such as pivot tables and data filtering, to enhance our analytical capabilities.&lt;/p&gt;
+&lt;p&gt;Next, we&amp;rsquo;ll venture into the world of Python—a powerful programming language for data analytics. Don&amp;rsquo;t worry if you&amp;rsquo;re new to coding; we&amp;rsquo;ll take it step by step. We&amp;rsquo;ll cover the basics of Python syntax, explore data manipulation libraries like Pandas, and even delve into data visualization libraries such as Matplotlib and Seaborn.&lt;/p&gt;
+&lt;h2 id=&#34;exploring-data-visualization&#34;&gt;Exploring Data Visualization:&lt;/h2&gt;
+&lt;p&gt;Data visualization is an essential skill for any data analyst. It allows us to present complex information in a visually appealing and easily digestible manner. Throughout this challenge, we&amp;rsquo;ll explore various data visualization techniques, uncovering the secrets to creating compelling charts, graphs, and dashboards.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll learn how to choose the right visual representation for different types of data, employ color and design principles effectively, and tell compelling stories through our visualizations. By the end, you&amp;rsquo;ll have the ability to transform raw data into captivating visuals that convey powerful insights.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion:&lt;/h2&gt;
+&lt;p&gt;Congratulations on taking the first steps of this 100-day data analytics challenge! With clear goals in mind and a solid foundation of knowledge, we&amp;rsquo;re well-prepared for the exciting learning journey ahead. In the upcoming posts, we&amp;rsquo;ll delve deeper into each topic, tackle hands-on exercises, and celebrate our progress together.&lt;/p&gt;
+&lt;p&gt;Remember, learning is a continuous process, and each day brings us closer to our goals. So, stay committed, embrace curiosity, and don&amp;rsquo;t hesitate to reach out to the supportive community we&amp;rsquo;ve built. Let&amp;rsquo;s make the most of these 100 days and unlock the incredible world of data analytics together!&lt;/p&gt;
+&lt;p&gt;Stay tuned for the next post, where we&amp;rsquo;ll dive into the fundamentals of data analytics. Until then, keep your spirits high and get ready to embrace the power of data!&lt;/p&gt;
+&lt;p&gt;Happy analyzing!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Embarking on a Data Analytics Journey: My 100-Day Challenge</title>
+      <link>/posts/challenge/</link>
       <pubDate>Sat, 08 Jul 2023 19:13:55 -0500</pubDate>
       
-      <guid>https://sandyfit.github.io/Data-Portfolio/posts/first-post/</guid>
-      <description>Data Cleaning </description>
-      <content>&lt;h1 id=&#34;data-cleaning&#34;&gt;Data Cleaning&lt;/h1&gt;
+      <guid>/posts/challenge/</guid>
+      <description>Hey there, fellow data enthusiasts! Are you ready to dive headfirst into the exciting world of data analytics? Well, I&amp;rsquo;ve got some great news for you. Today, I&amp;rsquo;m thrilled to kick off my personal 100-day challenge of data analytics learning, and I want to take you along for the ride!
+Now, you might be wondering what this challenge is all about and why it&amp;rsquo;s worth your time. Well, let me tell you, this isn&amp;rsquo;t just any ordinary learning endeavor.</description>
+      <content>&lt;p&gt;Hey there, fellow data enthusiasts! Are you ready to dive headfirst into the exciting world of data analytics? Well, I&amp;rsquo;ve got some great news for you. Today, I&amp;rsquo;m thrilled to kick off my personal 100-day challenge of data analytics learning, and I want to take you along for the ride!&lt;/p&gt;
+&lt;p&gt;Now, you might be wondering what this challenge is all about and why it&amp;rsquo;s worth your time. Well, let me tell you, this isn&amp;rsquo;t just any ordinary learning endeavor. It&amp;rsquo;s a fun, interactive, and transformative journey that aims to make data analytics accessible to beginners to the field.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re new to data analytics, fear not! This challenge is tailor-made for those who are just starting out. We&amp;rsquo;ll be taking small, manageable steps each day, building our knowledge from the ground up. And trust me, by the end of these 100 days, you&amp;rsquo;ll be amazed at how much you&amp;rsquo;ve learned and accomplished.&lt;/p&gt;
+&lt;p&gt;Throughout this challenge, I&amp;rsquo;ll be sharing my experiences, insights, and even some inevitable roadblocks. We&amp;rsquo;ll explore essential concepts, practical tools, and hands-on exercises together. But hey, don&amp;rsquo;t worry—I&amp;rsquo;ll make sure to explain everything in a friendly and approachable manner, avoiding any intimidating jargon along the way.&lt;/p&gt;
+&lt;p&gt;Data analytics is an incredibly valuable skill in today&amp;rsquo;s data-driven world. It enables us to make sense of vast amounts of information, discover valuable insights, and make informed decisions. Whether you&amp;rsquo;re a student, a professional looking to upskill, or simply someone who&amp;rsquo;s fascinated by data, this challenge is the perfect starting point for you.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ll cover the fundamentals of data analytics, explore popular tools like Excel and Python, delve into data visualization techniques, and much more. By the end, you&amp;rsquo;ll have a solid foundation in data analytics and the confidence to apply your newfound skills in real-world scenarios.&lt;/p&gt;
+&lt;p&gt;I can&amp;rsquo;t wait to get started. Together, we&amp;rsquo;ll unravel the mysteries of data analytics and unlock a world of endless possibilities. So, grab your learning hat, fasten your seatbelt, and let&amp;rsquo;s dive into this thrilling challenge together!&lt;/p&gt;
+&lt;p&gt;Stay tuned for the first post, where we&amp;rsquo;ll lay the foundation and set our goals. Until then, keep your curiosity alive and get ready to embrace the exciting world of data analytics. Trust me, this is going to be an adventure you won&amp;rsquo;t want to miss!&lt;/p&gt;
+&lt;p&gt;Happy analyzing!&lt;/p&gt;
 </content>
     </item>
     
