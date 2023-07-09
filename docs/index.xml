@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Sandra Ramos</title>
-    <link>http://example.org/</link>
+    <link>https://sandyfit.github.io/Data-Portfolio/</link>
     <description>Recent content in Home on Sandra Ramos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sandyfit.github.io/Data-Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EDA</title>
-      <link>http://example.org/posts/second-post/</link>
+      <link>https://sandyfit.github.io/Data-Portfolio/posts/second-post/</link>
       <pubDate>Sat, 08 Jul 2023 19:18:48 -0500</pubDate>
       
-      <guid>http://example.org/posts/second-post/</guid>
+      <guid>https://sandyfit.github.io/Data-Portfolio/posts/second-post/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Data Cleaning</title>
-      <link>http://example.org/posts/first-post/</link>
+      <link>https://sandyfit.github.io/Data-Portfolio/posts/first-post/</link>
       <pubDate>Sat, 08 Jul 2023 19:13:55 -0500</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
+      <guid>https://sandyfit.github.io/Data-Portfolio/posts/first-post/</guid>
       <description>Data Cleaning </description>
       <content>&lt;h1 id=&#34;data-cleaning&#34;&gt;Data Cleaning&lt;/h1&gt;
 </content>
@@ -30,10 +30,10 @@
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://sandyfit.github.io/Data-Portfolio/about/</link>
       <pubDate>Sat, 08 Jul 2023 19:09:52 -0500</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://sandyfit.github.io/Data-Portfolio/about/</guid>
       <description>About Me </description>
       <content>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
 </content>
