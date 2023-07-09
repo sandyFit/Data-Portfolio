@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Sandra Ramos</title>
-    <link>/</link>
+    <link>https://sandyfit.github.io/Data-Portfolio/</link>
     <description>Recent content in Home on Sandra Ramos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sandyfit.github.io/Data-Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 100-Day Data Analytics Challenge: Unveiling Each Step of the Journey</title>
-      <link>/posts/challenge-roadmap/</link>
+      <link>https://sandyfit.github.io/Data-Portfolio/posts/challenge-roadmap/</link>
       <pubDate>Sat, 08 Jul 2023 23:19:16 -0500</pubDate>
       
-      <guid>/posts/challenge-roadmap/</guid>
+      <guid>https://sandyfit.github.io/Data-Portfolio/posts/challenge-roadmap/</guid>
       <description>Hello again, data enthusiasts! Today, I&amp;rsquo;m excited to reveal the roadmap for our 100-day data analytics challenge. We&amp;rsquo;ve set our goals, laid the foundation, and now it&amp;rsquo;s time to embark on this transformative learning journey together. In this post, we&amp;rsquo;ll dive into the specifics, unveiling the steps we&amp;rsquo;ll take each week to reach our ultimate destination. So, without further ado, let&amp;rsquo;s get started!
 Day 1-10: Data Analysis Fundamentals •	Introduction to data analytics and its importance •	Understanding different types of data and data formats •	Exploring data analysis tools and software (e.</description>
       <content>&lt;p&gt;Hello again, data enthusiasts! Today, I&amp;rsquo;m excited to reveal the roadmap for our 100-day data analytics challenge. We&amp;rsquo;ve set our goals, laid the foundation, and now it&amp;rsquo;s time to embark on this transformative learning journey together. In this post, we&amp;rsquo;ll dive into the specifics, unveiling the steps we&amp;rsquo;ll take each week to reach our ultimate destination. So, without further ado, let&amp;rsquo;s get started!&lt;/p&gt;
@@ -76,10 +76,10 @@ Day 1-10: Data Analysis Fundamentals •	Introduction to data analytics and its 
     
     <item>
       <title>My 100-Day Data Analytics Challenge: Setting Goals and Getting Started!</title>
-      <link>/posts/challenge_goals/</link>
+      <link>https://sandyfit.github.io/Data-Portfolio/posts/challenge_goals/</link>
       <pubDate>Sat, 08 Jul 2023 22:52:58 -0500</pubDate>
       
-      <guid>/posts/challenge_goals/</guid>
+      <guid>https://sandyfit.github.io/Data-Portfolio/posts/challenge_goals/</guid>
       <description>Welcome back, fellow data enthusiasts! Today, I&amp;rsquo;m thrilled to share with you the details of my 100-day data analytics challenge. As promised, we&amp;rsquo;re embarking on a journey that will transform us from data analytics newbies to confident practitioners. So, without further ado, let&amp;rsquo;s dive right in and discover what this challenge has in store for us!
 Goal Setting: Before we begin our 100-day adventure, it&amp;rsquo;s essential to set clear goals. As with any learning endeavor, having a target in mind helps us stay focused and motivated.</description>
       <content>&lt;p&gt;Welcome back, fellow data enthusiasts! Today, I&amp;rsquo;m thrilled to share with you the details of my 100-day data analytics challenge. As promised, we&amp;rsquo;re embarking on a journey that will transform us from data analytics newbies to confident practitioners. So, without further ado, let&amp;rsquo;s dive right in and discover what this challenge has in store for us!&lt;/p&gt;
@@ -106,10 +106,10 @@ Goal Setting: Before we begin our 100-day adventure, it&amp;rsquo;s essential to
     
     <item>
       <title>Embarking on a Data Analytics Journey: My 100-Day Challenge</title>
-      <link>/posts/challenge/</link>
+      <link>https://sandyfit.github.io/Data-Portfolio/posts/challenge/</link>
       <pubDate>Sat, 08 Jul 2023 19:13:55 -0500</pubDate>
       
-      <guid>/posts/challenge/</guid>
+      <guid>https://sandyfit.github.io/Data-Portfolio/posts/challenge/</guid>
       <description>Hey there, fellow data enthusiasts! Are you ready to dive headfirst into the exciting world of data analytics? Well, I&amp;rsquo;ve got some great news for you. Today, I&amp;rsquo;m thrilled to kick off my personal 100-day challenge of data analytics learning, and I want to take you along for the ride!
 Now, you might be wondering what this challenge is all about and why it&amp;rsquo;s worth your time. Well, let me tell you, this isn&amp;rsquo;t just any ordinary learning endeavor.</description>
       <content>&lt;p&gt;Hey there, fellow data enthusiasts! Are you ready to dive headfirst into the exciting world of data analytics? Well, I&amp;rsquo;ve got some great news for you. Today, I&amp;rsquo;m thrilled to kick off my personal 100-day challenge of data analytics learning, and I want to take you along for the ride!&lt;/p&gt;
@@ -126,10 +126,10 @@ Now, you might be wondering what this challenge is all about and why it&amp;rsqu
     
     <item>
       <title>About Me</title>
-      <link>/about/</link>
+      <link>https://sandyfit.github.io/Data-Portfolio/about/</link>
       <pubDate>Sat, 08 Jul 2023 19:09:52 -0500</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://sandyfit.github.io/Data-Portfolio/about/</guid>
       <description>Hello, I&amp;rsquo;m Sandra, a novice Python data analyst and coder. I have a deep passion for the advancements in Artificial Intelligence and its profound impact on our society&amp;rsquo;s future.
 This website serves as a documentation of my journey into the realms of Data Analytics and Machine Learning, where I will also showcase my personal projects.
 My aim is to continuously enhance my analytics skills by diving into hands-on experiences and applying cutting-edge techniques.</description>
