@@ -1,0 +1,54 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Sandra Ramos'
+theme = 'Terminal'
+paginate = 3
+
+[params]
+    contentTypeName = "posts"
+    themeColor = "red"
+    showMenuItems = 4
+    showLanguageSelector = true
+    fullWidthTheme = false
+    centerTheme = true
+    showLastUpdated = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Sandra Ramos"
+    subtitle = "A Driven Coder and Analyst on a Quest to Solve Tough Problems with Data"
+    owner = ""
+    keywords = "Data Analytics, Data Science, data visualization, Machine Learning, Python, SQL, Portfolio"
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.en.params.logo]
+      logoText = "Sandra Ramos"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About Me"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/blog"
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"
+      [[languages.en.menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "https://cv-data-analytics.vercel.app/"
