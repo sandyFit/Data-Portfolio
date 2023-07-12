@@ -1,4 +1,4 @@
-baseURL = '/'    #https://sandyfit.github.io/Data-Portfolio/
+baseURL = 'https://sandyfit.github.io/Data-Portfolio/'    #https://sandyfit.github.io/Data-Portfolio/
 title = 'Sandra Ramos'
 theme = 'Terminal'
 paginate = 2
