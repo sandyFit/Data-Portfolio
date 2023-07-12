@@ -4,7 +4,7 @@ date: 2023-07-08T19:09:52-05:00
 draft: false
 ---
 
-Hello, I'm Sandra, a novice Python data analyst and coder. I have a deep passion for the advancements in Artificial Intelligence and its profound impact on our society's future.
+Hello, I'm Sandra, a Python data analyst and coder. I have a deep passion for the advancements in Artificial Intelligence and its profound impact on our society's future.
 
 This website serves as a documentation of my journey into the realms of Data Analytics and Machine Learning, where I will also showcase my personal projects.
 
