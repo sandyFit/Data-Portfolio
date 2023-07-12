@@ -1,8 +1,7 @@
-baseURL = 'https://sandyfit.github.io/Data-Portfolio/'    #https://sandyfit.github.io/Data-Portfolio/
-languageCode = 'en-us'
+baseURL = '/'    #https://sandyfit.github.io/Data-Portfolio/
 title = 'Sandra Ramos'
 theme = 'Terminal'
-paginate = 3
+paginate = 2
 
 [params]
     contentTypeName = "posts"
@@ -13,11 +12,17 @@ paginate = 3
     centerTheme = true
     showLastUpdated = false
 
+
 [languages]
   [languages.en]
-    languageName = "English"
-    title = "Sandra Ramos"
-    subtitle = "A Driven Coder and Analyst on a Quest to Solve Tough Problems with Data"
+    baseURL = 'https://example.com'
+    contentDir = 'content/english'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    weight = 1
+    title = "In English"
     owner = ""
     keywords = "Data Analytics, Data Science, data visualization, Machine Learning, Python, SQL, Portfolio"
     copyright = ""
@@ -52,3 +57,50 @@ paginate = 3
         identifier = "resume"
         name = "Resume"
         url = "https://cv-data-analytics.vercel.app/"
+
+
+  [languages.es]
+    baseURL = 'https://example.es'
+    contentDir = 'content/spanish'
+    disabled = false
+    languageCode = 'es-419'
+    languageDirection = 'ltr'
+    languageName = 'Español'
+    title = 'En Español'
+    weight = 2
+    subtitle = "Programadora y Analista de Datos, apasionada por resolver problemas complejos a través del poder de los datos"
+    owner = ""
+    keywords = "Analisis de Datos, ciencia de datos, visualizacion de datos, Machine Learning, Python, SQL, Portafolio"
+    copyright = ""
+    menuMore = "Mostrar Más"
+    readMore = "Leer Más"
+    readOtherPosts = "Leer otros posts"
+    newerPosts = "Post más recientes"
+    olderPosts = "Post antigüos"
+    missingContentMessage = "Página no encontrada..."
+    missingBackButtonLabel = "Volver a la página de inicio"
+    minuteReadingTime = "min "
+    words = "palabras"
+
+    [languages.es.params.logo]
+      logoText = "Sandra Ramos"
+      logoHomeLink = "./"
+
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        identifier = "about"
+        name = "Acerca de Mi"
+        url = "/acerca"
+      [[languages.es.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/blog"
+      [[languages.es.menu.main]]
+        identifier = "projects"
+        name = "Proyectos"
+        url = "/projects"
+      [[languages.es.menu.main]]
+        identifier = "resume"
+        name = "CV"
+        url = "https://cv-data-analytics.vercel.app/"
+
