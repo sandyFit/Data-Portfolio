@@ -1,14 +1,14 @@
 +++
 title = "My 100-Day Data Analytics Challenge: Unveiling Each Step of the Journey"
 date = "2023-07-08T23:19:16-05:00"
-author = ""
+author = "Sandra Ramos"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
 keywords = ["Data Analytics", "Data Science", "Challenge", "Learning"]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++

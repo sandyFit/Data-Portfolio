@@ -13,7 +13,6 @@ paginate = 2
     showLastUpdated = false
 
 
-[languages]
   [languages.en]
     baseURL = 'https://example.com'
     contentDir = 'content/english'
@@ -74,17 +73,17 @@ paginate = 2
     copyright = ""
     menuMore = "Mostrar Más"
     readMore = "Leer Más"
-    readOtherPosts = "Leer otros posts"
-    newerPosts = "Post más recientes"
-    olderPosts = "Post antigüos"
+    readOtherPosts = "También te puede interesar"
+    newerPosts = "Siguiente"
+    olderPosts = "Anterior"
     missingContentMessage = "Página no encontrada..."
     missingBackButtonLabel = "Volver a la página de inicio"
-    minuteReadingTime = "min "
+    minuteReadingTime = "minutos"
     words = "palabras"
 
     [languages.es.params.logo]
       logoText = "Sandra Ramos"
-      logoHomeLink = "./"
+      logoHomeLink = "/"
 
     [languages.es.menu]
       [[languages.es.menu.main]]

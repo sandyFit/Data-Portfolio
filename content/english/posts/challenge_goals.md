@@ -1,14 +1,14 @@
 +++
 title = "My 100-Day Data Analytics Challenge: Setting Goals and Getting Started!"
 date = "2023-07-08T22:52:58-05:00"
-author = ""
+author = "Sandra Ramos"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
 keywords = ["Data Analytics", "Data Science", "Challenge", "Learning"]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
