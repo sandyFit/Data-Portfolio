@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/trish/data_portfolio",
+	"sourceRoot": "C:/Users/trish/desktop/data_portfolio",
 	"sources": [
 		"css/base.scss",
 		"themes/Terminal/assets/css/variables.scss",
