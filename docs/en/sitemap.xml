@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/tags/blog/</loc>
+    <lastmod>2023-07-08T23:19:16-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-419"
+                href="https://example.es/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://example.com/tags/blog/"
+                />
+  </url><url>
     <loc>https://example.com/posts/challenge-roadmap/</loc>
     <lastmod>2023-07-08T23:19:16-05:00</lastmod>
     <xhtml:link
@@ -15,17 +28,17 @@
                 href="https://example.com/posts/challenge-roadmap/"
                 />
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2023-07-08T23:19:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-419"
-                href="https://example.es/posts/"
+                href="https://example.es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/posts/"
+                href="https://example.com/tags/"
                 />
   </url><url>
     <loc>https://example.com/posts/challenge_goals/</loc>
@@ -57,6 +70,19 @@
     <loc>https://example.com/about/</loc>
     <lastmod>2023-07-08T19:09:52-05:00</lastmod>
   </url><url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-419"
+                href="https://example.es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://example.com/posts/"
+                />
+  </url><url>
     <loc>https://example.com/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -70,6 +96,19 @@
                 href="https://example.com/"
                 />
   </url><url>
+    <loc>https://example.com/projects/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-419"
+                href="https://example.es/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://example.com/projects/"
+                />
+  </url><url>
     <loc>https://example.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -80,18 +119,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://example.com/categories/"
-                />
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-419"
-                href="https://example.es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://example.com/tags/"
                 />
   </url>
 </urlset>

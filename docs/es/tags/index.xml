@@ -5,6 +5,17 @@
     <link>https://example.es/tags/</link>
     <description>Recent content in Tags on En Español</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-419</language><atom:link href="https://example.es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-419</language>
+    <lastBuildDate>Sat, 08 Jul 2023 19:13:55 -0500</lastBuildDate><atom:link href="https://example.es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://example.es/tags/blog/</link>
+      <pubDate>Sat, 08 Jul 2023 19:13:55 -0500</pubDate>
+      
+      <guid>https://example.es/tags/blog/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>
