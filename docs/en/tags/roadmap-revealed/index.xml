@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roadmap Revealed on In English</title>
+    <link>https://sandyfit.github.io/Data-Portfolio/tags/roadmap-revealed/</link>
+    <description>Recent content in Roadmap Revealed on In English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 08 Jul 2023 23:19:16 -0500</lastBuildDate><atom:link href="https://sandyfit.github.io/Data-Portfolio/tags/roadmap-revealed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 100-Day Data Analytics Challenge: Unveiling Each Step of the Journey</title>
+      <link>https://sandyfit.github.io/Data-Portfolio/posts/challenge-roadmap/</link>
+      <pubDate>Sat, 08 Jul 2023 23:19:16 -0500</pubDate>
+      
+      <guid>https://sandyfit.github.io/Data-Portfolio/posts/challenge-roadmap/</guid>
+      <description>Hello again, data enthusiasts! It&amp;rsquo;s time to reveal the roadmap for this 100-day data analytics challenge. You&amp;rsquo;ve set your goals, and now it&amp;rsquo;s time to embark on this transformative learning journey. In this post, we&amp;rsquo;ll dive into the specifics, unveiling the steps you&amp;rsquo;ll take each week to reach your ultimate destination.
+So, without further ado, let&amp;rsquo;s get started!
+Day 1-10: Data Analysis Fundamentals •	Introduction to data analytics and its importance •	Understanding different types of data and data formats •	Exploring data analysis tools and software (e.</description>
+      <content>&lt;p&gt;Hello again, data enthusiasts! It&amp;rsquo;s time to reveal the roadmap for this &lt;a href=&#34;https://sandyfit.github.io/Data-Portfolio/posts/challenge/&#34;&gt;100-day data analytics challenge&lt;/a&gt;. You&amp;rsquo;ve set your &lt;a href=&#34;https://sandyfit.github.io/Data-Portfolio/posts/challenge_goals/&#34;&gt;goals&lt;/a&gt;, and now it&amp;rsquo;s time to embark on this transformative learning journey. In this post, we&amp;rsquo;ll dive into the specifics, unveiling the steps you&amp;rsquo;ll take each week to reach your ultimate destination.&lt;/p&gt;
+&lt;p&gt;So, without further ado, let&amp;rsquo;s get started!&lt;/p&gt;
+&lt;h3 id=&#34;day-1-10&#34;&gt;Day 1-10:&lt;/h3&gt;
+&lt;h2 id=&#34;data-analysis-fundamentals&#34;&gt;Data Analysis Fundamentals&lt;/h2&gt;
+&lt;p&gt;•	Introduction to data analytics and its importance &lt;br&gt;
+•	Understanding different types of data and data formats &lt;br&gt;
+•	Exploring data analysis tools and software (e.g., Excel, Python, R)&lt;/p&gt;
+&lt;h3 id=&#34;day-11-20&#34;&gt;Day 11-20:&lt;/h3&gt;
+&lt;h2 id=&#34;data-cleaning-and-preprocessing&#34;&gt;Data Cleaning and Preprocessing&lt;/h2&gt;
+&lt;p&gt;•	Techniques for data cleaning, handling missing values, and outliers &lt;br&gt;
+•	Data preprocessing steps such as data normalization and feature scaling &lt;br&gt;
+•	Exploring data manipulation libraries (e.g., Pandas)&lt;/p&gt;
+&lt;h3 id=&#34;day-21-30&#34;&gt;Day 21-30:&lt;/h3&gt;
+&lt;h2 id=&#34;exploratory-data-analysis-eda&#34;&gt;Exploratory Data Analysis (EDA)&lt;/h2&gt;
+&lt;p&gt;•	Techniques for visualizing and summarizing data &lt;br&gt;
+•	Identifying patterns, trends, and relationships in data &lt;br&gt;
+•	Using EDA libraries (e.g., Matplotlib, Seaborn)&lt;/p&gt;
+&lt;h3 id=&#34;day-31-40&#34;&gt;Day 31-40:&lt;/h3&gt;
+&lt;h2 id=&#34;statistics&#34;&gt;Statistics&lt;/h2&gt;
+&lt;p&gt;•	Statistical Analysis &lt;br&gt;
+•	Understanding basic statistical concepts and measures &lt;br&gt;
+•	Hypothesis testing and statistical inference &lt;br&gt;
+•	Applying statistical analysis techniques with Python&lt;/p&gt;
+&lt;h3 id=&#34;day-41-50&#34;&gt;Day 41-50:&lt;/h3&gt;
+&lt;h2 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h2&gt;
+&lt;p&gt;•	Design principles for effective data visualization &lt;br&gt;
+•	Creating impactful visualizations using advanced libraries (e.g., Plotly, Tableau) &lt;br&gt;
+•	Storytelling with data through interactive dashboards&lt;/p&gt;
+&lt;h3 id=&#34;day-51-60&#34;&gt;Day 51-60:&lt;/h3&gt;
+&lt;h2 id=&#34;introduction-to-machine-learning&#34;&gt;Introduction to Machine Learning&lt;/h2&gt;
+&lt;p&gt;•	Understanding the basics of supervised and unsupervised learning &lt;br&gt;
+•	Exploring popular machine learning algorithms (e.g., regression, classification, clustering) &lt;br&gt;
+•	Hands-on implementation of ML algorithms using scikit-learn or TensorFlow&lt;/p&gt;
+&lt;h3 id=&#34;day-61-70&#34;&gt;Day 61-70:&lt;/h3&gt;
+&lt;h2 id=&#34;data-wrangling-and-feature-engineering&#34;&gt;Data Wrangling and Feature Engineering&lt;/h2&gt;
+&lt;p&gt;•	Advanced data manipulation techniques &lt;br&gt;
+•	Feature selection and engineering to improve model performance &lt;br&gt;
+•	Working with messy or unstructured data&lt;/p&gt;
+&lt;h3 id=&#34;day-71-80&#34;&gt;Day 71-80:&lt;/h3&gt;
+&lt;h2 id=&#34;model-evaluation-and-validation&#34;&gt;Model Evaluation and Validation&lt;/h2&gt;
+&lt;p&gt;•	Techniques for evaluating and validating ML models &lt;br&gt;
+•	Cross-validation and performance metrics &lt;br&gt;
+•	Hyperparameter tuning and model optimization&lt;/p&gt;
+&lt;h3 id=&#34;day-81-90&#34;&gt;Day 81-90:&lt;/h3&gt;
+&lt;h2 id=&#34;advanced-topics-in-data-analytics&#34;&gt;Advanced Topics in Data Analytics&lt;/h2&gt;
+&lt;p&gt;•	Time series analysis and forecasting &lt;br&gt;
+•	Natural Language Processing (NLP) for text data analysis &lt;br&gt;
+•	Introduction to big data analytics and distributed computing frameworks (e.g., Apache Spark)&lt;/p&gt;
+&lt;h3 id=&#34;day-91-100&#34;&gt;Day 91-100:&lt;/h3&gt;
+&lt;h2 id=&#34;capstone-project-and-practical-applications&#34;&gt;Capstone Project and Practical Applications&lt;/h2&gt;
+&lt;p&gt;•	Apply your knowledge to a real-world project or case study &lt;br&gt;
+•	Showcase your data analytics skills through a meaningful project &lt;br&gt;
+•	Reflect on your progress and identify areas for further growth&lt;/p&gt;
+&lt;h2 id=&#34;wrapping-up&#34;&gt;Wrapping Up:&lt;/h2&gt;
+&lt;p&gt;Congratulations on discovering the steps that will shape this 100-day data analytics challenge! Each week will be a steppingstone towards achieving your goals and acquiring valuable skills in data analytics.&lt;/p&gt;
+&lt;p&gt;Stay tuned for the next post, where we&amp;rsquo;ll dive into the first week of our challenge—Data Analytics Fundamentals. Get ready to embrace the upcoming week and all the knowledge it holds.&lt;/p&gt;
+&lt;p&gt;Happy analyzing!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

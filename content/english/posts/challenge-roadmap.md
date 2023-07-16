@@ -4,16 +4,16 @@ date = "2023-07-08T23:19:16-05:00"
 author = "Sandra Ramos"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["blog"]
+tags = ["Data Analytics", "Learning Challenge", "Roadmap Revealed"]
 keywords = ["Data Analytics", "Data Science", "Challenge", "Learning"]
-description = ""
+description = "Reveal the roadmap for the 100-day data analytics challenge! Explore topics weekly, from fundamentals to practical applications"
 showFullContent = false
 readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
 
-Hello again, data enthusiasts! It's time to reveal the roadmap for this 100-day data analytics challenge. You've set your goals, and now it's time to embark on this transformative learning journey. In this post, we'll dive into the specifics, unveiling the steps you'll take each week to reach your ultimate destination. 
+Hello again, data enthusiasts! It's time to reveal the roadmap for this [100-day data analytics challenge]({{< ref "/posts/challenge" >}}). You've set your [goals]({{< ref "/posts/challenge_goals" >}}), and now it's time to embark on this transformative learning journey. In this post, we'll dive into the specifics, unveiling the steps you'll take each week to reach your ultimate destination. 
 
 So, without further ado, let's get started!
 
@@ -82,7 +82,7 @@ So, without further ado, let's get started!
 •	Showcase your data analytics skills through a meaningful project \
 •	Reflect on your progress and identify areas for further growth 
 
-## Conclusion:
+## Wrapping Up:
 Congratulations on discovering the steps that will shape this 100-day data analytics challenge! Each week will be a steppingstone towards achieving your goals and acquiring valuable skills in data analytics. 
 
 Stay tuned for the next post, where we'll dive into the first week of our challenge—Data Analytics Fundamentals. Get ready to embrace the upcoming week and all the knowledge it holds. 

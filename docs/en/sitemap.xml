@@ -2,20 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/tags/blog/</loc>
+    <loc>https://sandyfit.github.io/Data-Portfolio/tags/data-analytics/</loc>
     <lastmod>2023-07-08T23:19:16-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-419"
-                href="https://example.es/tags/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://example.com/tags/blog/"
-                />
   </url><url>
-    <loc>https://example.com/posts/challenge-roadmap/</loc>
+    <loc>https://sandyfit.github.io/Data-Portfolio/tags/learning-challenge/</loc>
+    <lastmod>2023-07-08T23:19:16-05:00</lastmod>
+  </url><url>
+    <loc>https://sandyfit.github.io/Data-Portfolio/posts/challenge-roadmap/</loc>
     <lastmod>2023-07-08T23:19:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -25,10 +18,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/posts/challenge-roadmap/"
+                href="https://sandyfit.github.io/Data-Portfolio/posts/challenge-roadmap/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://sandyfit.github.io/Data-Portfolio/tags/roadmap-revealed/</loc>
+    <lastmod>2023-07-08T23:19:16-05:00</lastmod>
+  </url><url>
+    <loc>https://sandyfit.github.io/Data-Portfolio/tags/</loc>
     <lastmod>2023-07-08T23:19:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -38,10 +34,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/tags/"
+                href="https://sandyfit.github.io/Data-Portfolio/tags/"
                 />
   </url><url>
-    <loc>https://example.com/posts/challenge_goals/</loc>
+    <loc>https://sandyfit.github.io/Data-Portfolio/tags/goals-setting/</loc>
+    <lastmod>2023-07-08T22:52:58-05:00</lastmod>
+  </url><url>
+    <loc>https://sandyfit.github.io/Data-Portfolio/posts/challenge_goals/</loc>
     <lastmod>2023-07-08T22:52:58-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -51,10 +50,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/posts/challenge_goals/"
+                href="https://sandyfit.github.io/Data-Portfolio/posts/challenge_goals/"
                 />
   </url><url>
-    <loc>https://example.com/posts/challenge/</loc>
+    <loc>https://sandyfit.github.io/Data-Portfolio/posts/challenge/</loc>
     <lastmod>2023-07-08T19:13:55-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -64,13 +63,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/posts/challenge/"
+                href="https://sandyfit.github.io/Data-Portfolio/posts/challenge/"
                 />
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://sandyfit.github.io/Data-Portfolio/tags/free-resources/</loc>
+    <lastmod>2023-07-08T19:13:55-05:00</lastmod>
+  </url><url>
+    <loc>https://sandyfit.github.io/Data-Portfolio/about/</loc>
     <lastmod>2023-07-08T19:09:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://sandyfit.github.io/Data-Portfolio/posts/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -80,10 +82,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/posts/"
+                href="https://sandyfit.github.io/Data-Portfolio/posts/"
                 />
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://sandyfit.github.io/Data-Portfolio/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -93,10 +95,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/"
+                href="https://sandyfit.github.io/Data-Portfolio/"
                 />
   </url><url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://sandyfit.github.io/Data-Portfolio/projects/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -106,10 +108,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/projects/"
+                href="https://sandyfit.github.io/Data-Portfolio/projects/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://sandyfit.github.io/Data-Portfolio/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-419"
@@ -118,7 +120,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/categories/"
+                href="https://sandyfit.github.io/Data-Portfolio/categories/"
                 />
   </url>
 </urlset>

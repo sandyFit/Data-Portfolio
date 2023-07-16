@@ -7,7 +7,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/posts/challenge-roadmap/"
+                href="https://sandyfit.github.io/Data-Portfolio/posts/challenge-roadmap/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -20,7 +20,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/posts/challenge_goals/"
+                href="https://sandyfit.github.io/Data-Portfolio/posts/challenge_goals/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -30,23 +30,13 @@
   </url><url>
     <loc>https://example.es/tags/blog/</loc>
     <lastmod>2023-07-08T19:13:55-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://example.com/tags/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-419"
-                href="https://example.es/tags/blog/"
-                />
   </url><url>
     <loc>https://example.es/posts/challenge/</loc>
     <lastmod>2023-07-08T19:13:55-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/posts/challenge/"
+                href="https://sandyfit.github.io/Data-Portfolio/posts/challenge/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -59,7 +49,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/tags/"
+                href="https://sandyfit.github.io/Data-Portfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -75,7 +65,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/posts/"
+                href="https://sandyfit.github.io/Data-Portfolio/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -88,7 +78,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/"
+                href="https://sandyfit.github.io/Data-Portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -101,7 +91,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/projects/"
+                href="https://sandyfit.github.io/Data-Portfolio/projects/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -113,7 +103,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://example.com/categories/"
+                href="https://sandyfit.github.io/Data-Portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"

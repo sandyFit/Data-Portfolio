@@ -2,6 +2,8 @@ baseURL = 'https://sandyfit.github.io/Data-Portfolio/'    #https://sandyfit.gith
 title = 'Sandra Ramos'
 theme = 'Terminal'
 paginate = 2
+enableRobotsTXT = true
+canonifyURL = true
 
 [params]
     contentTypeName = "posts"
@@ -12,9 +14,11 @@ paginate = 2
     centerTheme = true
     showLastUpdated = false
     singlePageSite = true
-
+    DefaultContentLanguage = 'en-US'
+    defaultContentLanguageInSubdir = true
+    
   [languages.en]
-    baseURL = 'https://example.com'
+    
     contentDir = 'content/english'
     disabled = false
     languageCode = 'en-US'
